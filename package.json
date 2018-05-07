@@ -1,0 +1,14 @@
+{
+  "name": "localweather",
+  "version": "1.0.0",
+  "description": "local weather app",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matthew beerens",
+  "license": "MIT",
+  "dependencies": {
+    "weather-icons-lite": "^1.0.0"
+  }
+}
